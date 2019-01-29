@@ -1,0 +1,85 @@
+.countdown {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 4vw;
+}
+
+.timeSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.number {
+  font-weight: 800;
+  font-size: 24px;
+}
+
+.label {
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+@media only screen and (min-width: 850px) {
+  a, a:active {
+      box-sizing: border-box;
+      text-align: left;
+      text-decoration: none !important;
+      word-break: break-word;
+      column-rule-color: rgb(71, 69, 209);
+      perspective-origin: 0px 0px;
+      transform-origin: 0px 0px;
+      caret-color: rgb(71, 69, 209);
+      border-top: 0px none rgb(71, 69, 209);
+      border-right: 0px none rgb(71, 69, 209);
+      border-bottom: 1px solid rgb(71, 69, 209);
+      border-left: 0px none rgb(71, 69, 209);
+      outline: rgb(71, 69, 209) none 0px;
+      color: rgb(71, 69, 209) !important;
+
+  }
+
+  a:hover {
+      background-position: 0px calc(-1.5px + 100%);
+      box-sizing: border-box;
+      text-align: left;
+      text-decoration: none !important;
+      word-break: break-word;
+      column-rule-color: rgb(71, 69, 209);
+      perspective-origin: 0px 0px;
+      transform-origin: 0px 0px;
+      caret-color: rgb(71, 69, 209);
+      background: rgba(0, 0, 0, 0) url("data:image/svg+xml;charset=utf8,%3Csvg id='Squiggle-svg' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.st0{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%234745D1' stroke-width='1' class='st0' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E") repeat-x scroll 0px calc(-1.5px + 100%) / auto 3px padding-box border-box;
+      border: 0px none rgb(71, 69, 209);
+      outline: rgb(71, 69, 209) none 0px;
+      padding: 0px 0px 3px;
+      color: rgb(71, 69, 209) !important;
+  }
+}
+
+.nextPizzeriaSection {
+  margin-bottom: 40px;
+}
+
+.nextPizzeriaContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.pizzeriaFormatted {
+  font-weight: 200;
+}
+
+.nextPizzeria {
+  font-size: 3.2vh;
+  padding: 1.5vh;
+}
+
+.timeIsUp {
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 600;
+}

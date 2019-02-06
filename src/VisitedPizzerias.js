@@ -196,6 +196,11 @@ const pizzerias = {
         name: 'La Rossa',
         date: 'Jan 23, 2019',
         link: 'http://larossa.love/'
+    },
+    40: {
+        name: 'Emporio',
+        date: 'Jan 30, 2019',
+        link: 'http://emporiony.com/'
     }
 }
 

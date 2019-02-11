@@ -201,6 +201,11 @@ const pizzerias = {
         name: 'Emporio',
         date: 'Jan 30, 2019',
         link: 'http://emporiony.com/'
+    },
+    41: {
+        name: 'Otto Enoteca Pizzeria',
+        date: 'Feb 6, 2019',
+        link: 'https://ny.ottopizzeria.com/'
     }
 }
 

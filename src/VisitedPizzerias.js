@@ -206,7 +206,17 @@ const pizzerias = {
         name: 'Otto Enoteca Pizzeria',
         date: 'Feb 6, 2019',
         link: 'https://ny.ottopizzeria.com/'
-    }
+    },
+    42: {
+        name: 'Martina',
+        date: 'Feb 13, 2019',
+        link: 'https://www.martinapizzeria.com/'
+    },
+    43: {
+        name: 'Sorbillo',
+        date: 'Feb 20, 2019',
+        link: 'https://www.sorbillonyc.com/nyc.html'
+    },
 }
 
 const formatPizzeriaWithDate = (name, date, link) => {

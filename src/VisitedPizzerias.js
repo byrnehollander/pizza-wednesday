@@ -217,6 +217,11 @@ const pizzerias = {
         date: 'Feb 20, 2019',
         link: 'https://www.sorbillonyc.com/nyc.html'
     },
+    44: {
+        name: 'Luzzo\'s',
+        date: 'Feb 27, 2019',
+        link: 'http://luzzospizzanyc.com/'
+    }
 }
 
 const formatPizzeriaWithDate = (name, date, link) => {

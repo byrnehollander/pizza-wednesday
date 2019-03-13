@@ -221,6 +221,11 @@ const pizzerias = {
         name: 'Luzzo\'s',
         date: 'Feb 27, 2019',
         link: 'http://luzzospizzanyc.com/'
+    },
+    45: {
+        name: 'Famous Ben\'s Pizza',
+        date: 'Mar 6, 2019',
+        link: 'http://www.famousbenspizzanyc.com'
     }
 }
 

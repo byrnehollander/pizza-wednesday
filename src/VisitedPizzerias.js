@@ -226,6 +226,11 @@ const pizzerias = {
         name: 'Famous Ben\'s Pizza',
         date: 'Mar 6, 2019',
         link: 'http://www.famousbenspizzanyc.com'
+    },
+    45: {
+        name: 'Numero 28 Pizzeria',
+        date: 'Mar 13, 2019',
+        link: 'https://www.numero28.com/menu-and-locations/east-village-new-york/'
     }
 }
 

@@ -227,10 +227,15 @@ const pizzerias = {
         date: 'Mar 6, 2019',
         link: 'http://www.famousbenspizzanyc.com'
     },
-    45: {
+    46: {
         name: 'Numero 28 Pizzeria',
         date: 'Mar 13, 2019',
         link: 'https://www.numero28.com/menu-and-locations/east-village-new-york/'
+    },
+    47: {
+        name: 'Speedy Romeo',
+        date: 'Mar 20, 2019',
+        link: 'http://www.speedyromeo.com/location/lower-east-side/'
     }
 }
 

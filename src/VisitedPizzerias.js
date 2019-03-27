@@ -236,6 +236,11 @@ const pizzerias = {
         name: 'Speedy Romeo',
         date: 'Mar 20, 2019',
         link: 'http://www.speedyromeo.com/location/lower-east-side/'
+    },
+    48: {
+        name: 'Two Boots',
+        date: 'Mar 27, 2019',
+        link: 'http://twoboots.com/location/east-village/'
     }
 }
 

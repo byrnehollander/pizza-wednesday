@@ -241,6 +241,11 @@ const pizzerias = {
         name: 'Two Boots',
         date: 'Mar 27, 2019',
         link: 'http://twoboots.com/location/east-village/'
+    },
+    49: {
+        name: 'Village Square Pizza',
+        date: 'April 3, 2019',
+        link: 'https://www.instagram.com/villagesquarepizza'
     }
 }
 

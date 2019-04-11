@@ -246,6 +246,11 @@ const pizzerias = {
         name: 'Village Square Pizza',
         date: 'April 3, 2019',
         link: 'https://www.instagram.com/villagesquarepizza'
+    },
+    50: {
+        name: 'Joe and Pat\'s',
+        date: 'April 10, 2019',
+        link: 'https://www.joeandpatsnyc.com/'
     }
 }
 

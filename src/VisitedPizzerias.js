@@ -251,6 +251,11 @@ const pizzerias = {
         name: 'Joe and Pat\'s',
         date: 'April 10, 2019',
         link: 'https://www.joeandpatsnyc.com/'
+    },
+    51: {
+        name: 'La Rossa',
+        date: 'April 24, 2019',
+        link: 'http://larossa.love/'
     }
 }
 

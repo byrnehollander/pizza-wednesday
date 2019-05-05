@@ -256,6 +256,11 @@ const pizzerias = {
         name: 'La Rossa',
         date: 'April 24, 2019',
         link: 'http://larossa.love/'
+    },
+    52: {
+        name: 'Champion Pizza',
+        date: 'May 1, 2019',
+        link: 'http://championpizzanyc.com/index.html'
     }
 }
 

@@ -261,6 +261,11 @@ const pizzerias = {
         name: 'Champion Pizza',
         date: 'May 1, 2019',
         link: 'http://championpizzanyc.com/index.html'
+    },
+    53: {
+        name: 'Marcellino',
+        date: 'May 8, 2019',
+        link: 'https://www.marcellinonyc.com/eat'
     }
 }
 

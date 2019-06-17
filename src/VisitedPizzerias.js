@@ -276,6 +276,11 @@ const pizzerias = {
         name: 'La Margarita Pizzeria',
         date: 'May 22, 2019',
         link: 'http://www.lamargaritanyc.com/'
+    },
+    56: {
+        name: 'Artistic Pizza',
+        date: 'May 29, 2019',
+        link: 'https://artistic-pizza.business.site/'
     }
 }
 

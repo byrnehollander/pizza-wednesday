@@ -281,6 +281,31 @@ const pizzerias = {
         name: 'Artistic Pizza',
         date: 'May 29, 2019',
         link: 'https://artistic-pizza.business.site/'
+    },
+    57: {
+        name: 'L&B Spumoni Gardens',
+        date: 'June 5, 2019',
+        link: 'https://www.spumonigardens.com/'
+    },
+    58: {
+        name: 'Luigi\'s Pizza',
+        date: 'June 5, 2019',
+        link: 'http://luigispizzabrooklyn.com/'
+    },
+    59: {
+        name: 'Sam\'s Restaurant',
+        date: 'June 5, 2019',
+        link: 'https://www.yelp.com/biz/sams-brooklyn'
+    },
+    60: {
+        name: 'Paulie Gee\'s',
+        date: 'June 5, 2019',
+        link: 'https://pauliegee.com/greenpoint/'
+    },
+    61: {
+        name: 'Proto\'s Pizza',
+        date: 'June 19, 2019',
+        link: 'https://www.protospizzamenu.com/restaurants/ny/new-york/10003/proto-s-pizza/menu'
     }
 }
 

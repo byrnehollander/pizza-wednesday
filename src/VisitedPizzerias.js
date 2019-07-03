@@ -306,6 +306,16 @@ const pizzerias = {
         name: 'Proto\'s Pizza',
         date: 'June 19, 2019',
         link: 'https://www.protospizzamenu.com/restaurants/ny/new-york/10003/proto-s-pizza/menu'
+    },
+    62: {
+        name: 'Kesté was closed, not sure where they went',
+        date: 'June 26, 2019',
+        link: 'https://seatgeek.com'
+    },
+    63: {
+        name: '2 Bros',
+        date: 'July 3, 2019',
+        link: 'https://www.2brospizza.com/'
     }
 }
 

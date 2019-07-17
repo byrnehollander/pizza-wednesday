@@ -15,9 +15,9 @@ const formatPizzeria = (name, link) => (
 )
 
 const nextPizzeria = {
-    name: 'Gruppo',
+    name: 'Gino Sorbillo',
     // date: 'July 17, 2019',
-    link: 'https://www.nycthincrust.com/location/gruppo-thin-crust/'
+    link: 'https://www.sorbillonyc.com/'
 }
 
 const formattedNextPizzeria = formatPizzeria(nextPizzeria.name, nextPizzeria.link)

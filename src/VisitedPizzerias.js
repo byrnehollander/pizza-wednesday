@@ -321,6 +321,11 @@ const pizzerias = {
         name: 'Trapizzino',
         date: 'July 10, 2019',
         link: 'https://www.trapizzinousa.com/menus/'
+    },
+    65: {
+        name: 'Gino Sorbillo',
+        date: 'July 17, 2019',
+        link: 'https://www.sorbillonyc.com/'
     }
 }
 

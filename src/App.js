@@ -125,6 +125,7 @@ export default class App extends Component {
                   backgroundSize: 'cover',
                   marginBottom: '1vw' } }>
                 </Jumbotron>
+                <div style={ { marginBottom: '0.4vw', fontSize: 20, textAlign: 'center' } }>Merch coming soon... Slack Julie for pricing</div>
                 <Container style={ { marginBottom: '3vw', fontSize: 60, textAlign: 'center', fontFamily: 'Playfair Display' } }>
                     Pizza Wednesday
                 </Container>

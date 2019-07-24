@@ -121,7 +121,7 @@ export default class App extends Component {
             <div>
                 <Jumbotron style={ {
                   height: '25vw',
-                  backgroundImage: 'url("https://static.tumblr.com/7ab8fc3d6cf04fe141ddc9806b6f3466/cawphq4/cscp8oeo6/tumblr_static_tumblr_static_eqxp05j1t28gc8ks0wgcw8w4g_focused_v3.jpg")',
+                  backgroundImage: 'url("https://i.imgur.com/KCV8YQh.jpg")',
                   backgroundSize: 'cover',
                   marginBottom: '1vw' } }>
                 </Jumbotron>

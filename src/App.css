@@ -27,16 +27,16 @@
       text-align: left;
       text-decoration: none !important;
       word-break: break-word;
-      column-rule-color: rgb(71, 69, 209);
+      column-rule-color: rgb(184, 68, 52);
       perspective-origin: 0px 0px;
       transform-origin: 0px 0px;
-      caret-color: rgb(71, 69, 209);
-      border-top: 0px none rgb(71, 69, 209);
-      border-right: 0px none rgb(71, 69, 209);
-      border-bottom: 1px solid rgb(71, 69, 209);
-      border-left: 0px none rgb(71, 69, 209);
-      outline: rgb(71, 69, 209) none 0px;
-      color: rgb(71, 69, 209) !important;
+      caret-color: rgb(184, 68, 52);
+      border-top: 0px none rgb(184, 68, 52);
+      border-right: 0px none rgb(184, 68, 52);
+      border-bottom: 1px solid rgb(184, 68, 52);
+      border-left: 0px none rgb(184, 68, 52);
+      outline: rgb(184, 68, 52) none 0px;
+      color: rgb(184, 68, 52) !important;
 
   }
 
@@ -46,15 +46,15 @@
       text-align: left;
       text-decoration: none !important;
       word-break: break-word;
-      column-rule-color: rgb(71, 69, 209);
+      column-rule-color: rgb(184, 68, 52);
       perspective-origin: 0px 0px;
       transform-origin: 0px 0px;
-      caret-color: rgb(71, 69, 209);
-      background: rgba(0, 0, 0, 0) url("data:image/svg+xml;charset=utf8,%3Csvg id='Squiggle-svg' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.st0{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%234745D1' stroke-width='1' class='st0' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E") repeat-x scroll 0px calc(-1.5px + 100%) / auto 3px padding-box border-box;
-      border: 0px none rgb(71, 69, 209);
-      outline: rgb(71, 69, 209) none 0px;
+      caret-color: rgb(184, 68, 52);
+      background: rgba(0, 0, 0, 0) url("data:image/svg+xml;charset=utf8,%3Csvg id='Squiggle-svg' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.st0{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='red' stroke-width='1' class='st0' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E") repeat-x scroll 0px calc(-1.5px + 100%) / auto 3px padding-box border-box;
+      border: 0px none rgb(184, 68, 52);
+      outline: rgb(184, 68, 52) none 0px;
       padding: 0px 0px 3px;
-      color: rgb(71, 69, 209) !important;
+      color: rgb(184, 68, 52) !important;
   }
 }
 

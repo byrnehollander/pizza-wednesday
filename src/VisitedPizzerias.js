@@ -308,7 +308,7 @@ const pizzerias = {
         link: 'https://www.protospizzamenu.com/restaurants/ny/new-york/10003/proto-s-pizza/menu'
     },
     62: {
-        name: 'Kesté was closed, not sure where peeps went',
+        name: 'Kesté was closed, and I forgot where we ended up',
         date: 'June 26, 2019',
         link: 'https://seatgeek.com'
     },
@@ -326,6 +326,11 @@ const pizzerias = {
         name: 'Gino Sorbillo',
         date: 'July 17, 2019',
         link: 'https://www.sorbillonyc.com/'
+    },
+    66: {
+        name: '&pizza',
+        date: 'July 26, 2019',
+        link: 'https://andpizza.com/'
     }
 }
 

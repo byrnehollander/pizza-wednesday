@@ -15,9 +15,9 @@ const formatPizzeria = (name, link) => (
 )
 
 const nextPizzeria = {
-    name: 'Rizzo\'s Fine Pizza',
-    // date: 'July 26, 2019',
-    link: 'http://rizzosfinepizza.com/'
+    name: 'Prince Street Pizza',
+    // date: 'July 31, 2019',
+    link: 'http://www.princestpizzanewyork.com/'
 }
 
 const formattedNextPizzeria = formatPizzeria(nextPizzeria.name, nextPizzeria.link)
@@ -25,7 +25,7 @@ const formattedNextPizzeria = formatPizzeria(nextPizzeria.name, nextPizzeria.lin
 const pizzaDate = DateTime.fromObject({ 
     year: 2019, 
     month: 7, 
-    day: 26, 
+    day: 31, 
     hour: 12, 
     minute: 30, 
     zone: 'America/New_York', 
@@ -121,15 +121,15 @@ export default class App extends Component {
             <div>
                 <Jumbotron style={ {
                   height: '25vw',
-                  backgroundImage: 'url("https://i.imgur.com/KCV8YQh.jpg")',
+                  backgroundImage: 'url("https://i.imgur.com/4tKVke3.png")',
                   backgroundSize: 'cover',
                   marginBottom: '1vw' } }>
                 </Jumbotron>
-                <div style={ { marginBottom: '0.4vw', fontSize: 20, textAlign: 'center' } }>Merch coming soon... Slack Julie for pricing</div>
-                <Container style={ { marginBottom: '3vw', fontSize: 60, textAlign: 'center', fontFamily: 'Playfair Display' } }>
+                {/* <div style={ { marginBottom: '0.4vw', fontSize: 20, textAlign: 'center' } }>Merch coming soon... Slack Julie for pricing</div> */}
+                {/*              <Container style={ { marginBottom: '3vw', fontSize: 60, textAlign: 'center', fontFamily: 'Playfair Display' } }>
                     Pizza Wednesday
-                </Container>
-                <Container>
+                </Container> */}
+                <Container style={ { paddingTop: '2.4vh' } }>
                     <Row>
                         <Col className="nextPizzeriaSection" >
                             <div className="nextPizzeriaContainer">
@@ -153,6 +153,13 @@ export default class App extends Component {
                     <Row>
                         <Col>
                             <VisitedPizzerias />
+                        </Col>
+                    </Row>
+                </Container>
+                <Container style={ { paddingBottom: '2vh', textAlign: 'center' } }>
+                    <Row>
+                        <Col>
+                            Huge thanks to Julie for making this website look a lot less bad, and for the <i>cornucopia</i> of forthcoming merch
                         </Col>
                     </Row>
                 </Container>

@@ -159,7 +159,7 @@ export default class App extends Component {
                 <Container style={ { paddingBottom: '2vh', textAlign: 'center' } }>
                     <Row>
                         <Col>
-                            Huge thanks to Julie for making this website look a lot less bad, and for the <i>cornucopia</i> of forthcoming merch
+                            Huge thanks to Julie for all the cool graphics! (and for the <i>cornucopia</i> of forthcoming merch)
                         </Col>
                     </Row>
                 </Container>

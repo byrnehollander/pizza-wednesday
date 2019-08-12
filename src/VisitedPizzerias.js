@@ -336,6 +336,11 @@ const pizzerias = {
         name: 'Prince Street Pizza',
         date: 'July 31, 2019',
         link: 'http://www.princestpizzanewyork.com/'
+    },
+    68: {
+        name: 'Razza',
+        date: 'August 7, 2019',
+        link: 'https://razzanj.com/'
     }
 }
 

@@ -58,6 +58,10 @@
   }
 }
 
+a, a:active, a:hover {
+  color: rgb(184, 68, 52) !important;
+}
+
 .nextPizzeriaSection {
   margin-bottom: 40px;
 }

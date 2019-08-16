@@ -341,7 +341,11 @@ const pizzerias = {
         name: 'Razza',
         date: 'August 7, 2019',
         link: 'https://razzanj.com/'
-    }
+    },
+    69: {
+        name: 'Gemma',
+        date: 'August 14, 2019',
+        link: 'https://www.theboweryhotel.com/dining/gemma/'
 }
 
 const formatPizzeriaWithDate = (name, date, link) => {

@@ -15,9 +15,9 @@ const formatPizzeria = (name, link) => (
 )
 
 const nextPizzeria = {
-    name: 'Gemma',
-    // date: 'August 14, 2019',
-    link: 'https://www.theboweryhotel.com/dining/gemma/'
+    name: 'Sauce',
+    // date: 'August 21, 2019',
+    link: 'http://saucerestaurant.com/'
 }
 
 const formattedNextPizzeria = formatPizzeria(nextPizzeria.name, nextPizzeria.link)
@@ -25,7 +25,7 @@ const formattedNextPizzeria = formatPizzeria(nextPizzeria.name, nextPizzeria.lin
 const pizzaDate = DateTime.fromObject({ 
     year: 2019, 
     month: 8, 
-    day: 14, 
+    day: 21, 
     hour: 12, 
     minute: 30, 
     zone: 'America/New_York', 

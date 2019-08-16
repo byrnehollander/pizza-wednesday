@@ -346,6 +346,7 @@ const pizzerias = {
         name: 'Gemma',
         date: 'August 14, 2019',
         link: 'https://www.theboweryhotel.com/dining/gemma/'
+    }
 }
 
 const formatPizzeriaWithDate = (name, date, link) => {

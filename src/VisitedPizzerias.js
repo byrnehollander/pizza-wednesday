@@ -346,6 +346,11 @@ const pizzerias = {
         name: 'Gemma',
         date: 'August 14, 2019',
         link: 'https://www.theboweryhotel.com/dining/gemma/'
+    },
+    70: {
+        name: 'Trapizzino again... wanted to go to Sauce tho 🙁',
+        date: 'August 21, 2019',
+        link: 'https://www.trapizzinousa.com/menus/'
     }
 }
 

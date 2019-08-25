@@ -15,9 +15,9 @@ const formatPizzeria = (name, link) => (
 )
 
 const nextPizzeria = {
-    name: 'Sauce',
-    // date: 'August 21, 2019',
-    link: 'http://saucerestaurant.com/'
+    name: 'Artichoke Basille\'s Pizza',
+    // date: 'August 28, 2019',
+    link: 'https://www.artichokepizza.com/'
 }
 
 const formattedNextPizzeria = formatPizzeria(nextPizzeria.name, nextPizzeria.link)
@@ -25,7 +25,7 @@ const formattedNextPizzeria = formatPizzeria(nextPizzeria.name, nextPizzeria.lin
 const pizzaDate = DateTime.fromObject({ 
     year: 2019, 
     month: 8, 
-    day: 21, 
+    day: 28, 
     hour: 12, 
     minute: 30, 
     zone: 'America/New_York', 
@@ -159,7 +159,7 @@ export default class App extends Component {
                 <Container style={ { paddingBottom: '2vh', textAlign: 'center' } }>
                     <Row>
                         <Col>
-                            Huge thanks to Julie for all the cool graphics! (and for the <i>cornucopia</i> of forthcoming merch)
+                            Huge thanks to Julie for all the cool graphics and merch!
                         </Col>
                     </Row>
                 </Container>

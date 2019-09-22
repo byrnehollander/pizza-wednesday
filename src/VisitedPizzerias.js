@@ -119,17 +119,17 @@ const pizzerias = {
     },
     24: {
         name: 'Bleecker St Pizza',
-        date: 'August 15, 2018',
+        date: 'Aug 15, 2018',
         link: 'https://www.bleeckerstreetpizza.com/'
     },
     25: {
         name: 'Emmett\'s',
-        date: 'August 22, 2018',
+        date: 'Aug 22, 2018',
         link: 'https://www.emmettsnyc.com/'
     },
     26: {
         name: 'Mani in Pasta',
-        date: 'August 29, 2018',
+        date: 'Aug 29, 2018',
         link: 'https://www.maniinpastanyc.com/'
     },
     27: {
@@ -244,17 +244,17 @@ const pizzerias = {
     },
     49: {
         name: 'Village Square Pizza',
-        date: 'April 3, 2019',
+        date: 'Apr 3, 2019',
         link: 'https://www.instagram.com/villagesquarepizza'
     },
     50: {
         name: 'Joe and Pat\'s',
-        date: 'April 10, 2019',
+        date: 'Apr 10, 2019',
         link: 'https://www.joeandpatsnyc.com/'
     },
     51: {
         name: 'La Rossa',
-        date: 'April 24, 2019',
+        date: 'Apr 24, 2019',
         link: 'http://larossa.love/'
     },
     52: {
@@ -339,18 +339,38 @@ const pizzerias = {
     },
     68: {
         name: 'Razza',
-        date: 'August 7, 2019',
+        date: 'Aug 7, 2019',
         link: 'https://razzanj.com/'
     },
     69: {
         name: 'Gemma',
-        date: 'August 14, 2019',
+        date: 'Aug 14, 2019',
         link: 'https://www.theboweryhotel.com/dining/gemma/'
     },
     70: {
         name: 'Trapizzino again... wanted to go to Sauce tho 🙁',
-        date: 'August 21, 2019',
+        date: 'Aug 21, 2019',
         link: 'https://www.trapizzinousa.com/menus/'
+    },
+    71: {
+        name: 'Artichoke Basille\'s Pizza',
+        date: 'Aug 28, 2019',
+        link: 'https://www.artichokepizza.com/'
+    },
+    72: {
+        name: 'Proto\'s Pizza',
+        date: 'Sept 4, 2019',
+        link: 'https://www.protospizzamenu.com/restaurants/ny/new-york/10003/proto-s-pizza/menu'
+    },
+    73: {
+        name: 'idk, where\'d you go raf??',
+        date: 'Sept 11, 2019',
+        link: 'https://raf.al'
+    },
+    74: {
+        name: 'Numero 28',
+        date: 'Sept 18, 2019',
+        link: 'https://www.numero28.com/menu-and-locations/east-village-new-york/'
     }
 }
 

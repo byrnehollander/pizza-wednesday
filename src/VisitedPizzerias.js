@@ -371,6 +371,11 @@ const pizzerias = {
         name: 'Numero 28',
         date: 'Sept 18, 2019',
         link: 'https://www.numero28.com/menu-and-locations/east-village-new-york/'
+    },
+    75:  {
+        name: 'Nolita Pizza',
+        date: 'October 2, 2019',
+        link: 'https://nolitapizzanyc.com/'
     }
 }
 

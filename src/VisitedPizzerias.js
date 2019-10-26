@@ -372,10 +372,25 @@ const pizzerias = {
         date: 'Sept 18, 2019',
         link: 'https://www.numero28.com/menu-and-locations/east-village-new-york/'
     },
-    75:  {
+    75: {
         name: 'Nolita Pizza',
         date: 'October 2, 2019',
         link: 'https://nolitapizzanyc.com/'
+    },
+    76: {
+        name: 'Fiore\'s Pizza',
+        date: 'October 9, 2019',
+        link: 'http://fiorespizzanewyork.bestcafes.online/'
+    },
+    77: {
+        name: 'Sauce',
+        date: 'October 16, 2019',
+        link: 'https://saucepizzeria.com'
+    },
+    78: {
+        name: 'Emporio',
+        date: 'October 23, 2019',
+        link: 'http://emporiony.com/'
     }
 }
 

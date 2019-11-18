@@ -391,6 +391,21 @@ const pizzerias = {
         name: 'Emporio',
         date: 'October 23, 2019',
         link: 'http://emporiony.com/'
+    },
+    79: {
+        name: 'Follia',
+        date: 'October 30, 2019',
+        link: 'https://www.follianyc.com/menus/'
+    },
+    80: {
+        name: 'Lunetta',
+        date: 'November 13, 2019',
+        link: 'http://lunettanyc.com/'
+    },
+    81: {
+        name: 'Bread & Salt',
+        date: 'November 13, 2019',
+        link: 'https://www.instagram.com/breadandsaltbakery/?hl=en'
     }
 }
 

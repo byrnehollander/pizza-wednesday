@@ -15,17 +15,17 @@ const formatPizzeria = (name, link) => (
 )
 
 const nextPizzeria = {
-    name: 'Julie week (Waldy\'s)',
-    // date: 'November 20, 2019',
-    link: 'https://www.waldyspizzanyc.com/'
+    name: 'Covina',
+    // date: 'December 4, 2019',
+    link: 'https://www.covinanyc.com/'
 }
 
 const formattedNextPizzeria = formatPizzeria(nextPizzeria.name, nextPizzeria.link)
 
 const pizzaDate = DateTime.fromObject({ 
     year: 2019, 
-    month: 11, 
-    day: 20, 
+    month: 12, 
+    day: 4, 
     hour: 12, 
     minute: 30, 
     zone: 'America/New_York', 

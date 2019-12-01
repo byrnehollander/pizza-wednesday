@@ -406,6 +406,16 @@ const pizzerias = {
         name: 'Bread & Salt',
         date: 'November 13, 2019',
         link: 'https://www.instagram.com/breadandsaltbakery/?hl=en'
+    },
+    82: {
+        name: 'Julie week (Waldy\'s)',
+        date: 'November 20, 2019',
+        link: 'https://www.waldyspizzanyc.com/'
+    },
+    83: {
+        name: 'Lions & Tigers & Squares',
+        date: 'November 27, 2019',
+        link: 'https://www.lionsandtigersandsquares.com/'
     }
 }
 

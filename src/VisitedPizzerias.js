@@ -416,7 +416,22 @@ const pizzerias = {
         name: 'Lions & Tigers & Squares',
         date: 'November 27, 2019',
         link: 'https://www.lionsandtigersandsquares.com/'
-    }
+    },
+    84: {
+        name: 'Covina --> Lunetta',
+        date: 'December 4, 2019',
+        link: 'https://www.lunettapizzaandrestaurant.com/'
+    },
+    85: {
+        name: 'Obica --> Lunetta',
+        date: 'December 11, 2019',
+        link: 'https://www.lunettapizzaandrestaurant.com/'
+    },
+    86: {
+        name: 'Obica',
+        date: 'December 18, 2019',
+        link: 'http://www.obica.com/'
+    },
 }
 
 const formatPizzeriaWithDate = (name, date, link) => {

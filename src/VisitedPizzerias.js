@@ -436,7 +436,6 @@ const pizzerias = {
         name: 'Tappo',
         date: 'January 8, 2020',
         link: 'https://www.nycthincrust.com/tappo-menus-2/'
-}
     }
 }
 

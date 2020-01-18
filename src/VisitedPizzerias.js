@@ -432,6 +432,12 @@ const pizzerias = {
         date: 'December 18, 2019',
         link: 'http://www.obica.com/'
     },
+    87: {
+        name: 'Tappo',
+        date: 'January 8, 2020',
+        link: 'https://www.nycthincrust.com/tappo-menus-2/'
+}
+    }
 }
 
 const formatPizzeriaWithDate = (name, date, link) => {

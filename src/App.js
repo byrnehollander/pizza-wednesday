@@ -15,7 +15,7 @@ const formatPizzeria = (name, link) => (
 )
 
 const nextPizzeria = {
-    name: 'La Pizza & La Pasta',
+    name: 'La Pizza & La Pasta (Eataly)',
     // date: 'January 29, 2020',
     link: 'https://www.eataly.com/us_en/stores/nyc-flatiron/nyc-la-pizza-la-pasta/'
 }

@@ -441,7 +441,27 @@ const pizzerias = {
         name: 'Zero Otto Nove',
         date: 'January 22, 2020',
         link: 'https://www.zeroottonove.com/locations/nyc'
-    }
+    },
+    89: {
+        name: 'La Pizza & La Pasta (Eataly)',
+        date: 'January 29, 2020',
+        link: 'https://www.eataly.com/us_en/stores/nyc-flatiron/nyc-la-pizza-la-pasta/'
+    },
+    90: {
+        name: 'Bread & Tulips',
+        date: 'February 5, 2020',
+        link: 'https://www.breadandtulipsnyc.com/'
+    },
+    91: {
+        name: 'Marinara Pizza',
+        date: 'February 12, 2020',
+        link: 'https://www.marinarapizza.com/'
+    },
+    92: {
+        name: 'Grimaldi\'s',
+        date: 'February 19, 2020',
+        link: 'https://www.grimaldispizzeria.com/'
+    },
 }
 
 const formatPizzeriaWithDate = (name, date, link) => {

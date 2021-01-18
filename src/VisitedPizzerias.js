@@ -462,6 +462,16 @@ const pizzerias = {
         date: 'February 19, 2020',
         link: 'https://www.grimaldispizzeria.com/'
     },
+    93: {
+        name: 'Norma',
+        date: 'February 26, 2020',
+        link: 'http://www.normarestaurant.com/'
+    },
+    94: {
+        name: 'Leo',
+        date: 'March 4, 2020',
+        link: 'https://leo-nyc.com/'
+    },
 }
 
 const formatPizzeriaWithDate = (name, date, link) => {
